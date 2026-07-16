@@ -1,6 +1,6 @@
 # Web Solivar
 
-- [Urbárske spolocenstvo](https://urbar-solivar.eu)
+- [Urbárske spolocenstvo](https://www.urbar-solivar.sk)
 - Samospráva
 - Poslanci za tento volebný obvod
 - História
