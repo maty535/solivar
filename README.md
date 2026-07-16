@@ -8,3 +8,5 @@ title: Solivar
 - Samospráva
 - Poslanci za tento volebný obvod
 - História
+- Katastrálne informácie
+- Projekty týkajúce sa tohto celku
