@@ -6,8 +6,8 @@ layout: home
 # Web Solivar
 
 - [Urbárske spoločenstvo](https://www.urbar-solivar.sk)
-- Samospráva
-- Poslanci za tento volebný obvod
+- [Samospráva](http://egov.presov.sk/default.aspx?NavigationState=261:0:&F144112005=16) - Dane
+- [Poslanci za tento volebný obvod]({{ '/poslanci' | relative_url }})
 - História - Osobnosti
 - [Katastrálne informácie](https://zbgis.skgeodesy.sk/mapka/c/q2kP6)
 - Projekty týkajúce sa tohto [územného/administratívneho](https://mestopresov.maps.arcgis.com/apps/instant/basic/index.html?appid=385dbf3eea714264b6f495aa91404005) celku

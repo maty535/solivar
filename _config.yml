@@ -1,0 +1,15 @@
+
+# _config.yml
+# baseurl: "/urbarSolivar"
+url: "https://www.solivar.eu"
+
+
+# Name of website
+title: Solivar
+
+#Language
+lang: sk
+
+
+
+remote_theme: daattali/beautiful-jekyll@6.0.1 
