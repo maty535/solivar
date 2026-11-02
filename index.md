@@ -16,5 +16,5 @@ layout: home
 
 
 
-# Katastrálne územie
+# Katastrálne územie 857301
 <iframe src="https://zbgis.skgeodesy.sk/mapka/e/q2kP6?pos=48.971797,21.278560,12&bm=world-imagery" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
